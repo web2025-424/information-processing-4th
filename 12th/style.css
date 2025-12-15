@@ -16,7 +16,7 @@
 /* ページ全体の最大幅 */
 body {
   max-width: 900px;
-  margin: margin: 0 auto;
+  margin: 0 auto;
   /*③margin プロパティで、上下余白は0、左右余白は自動 auto（中央配置）に指定する値は？
 　（ページを中央配置するための値）
 */
